@@ -12,8 +12,6 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Visual-Recognition](https://github.com/alex-h-sun/Visual-Recognition) | Computer vision models for agricultural use cases | Python, PyTorch |
+| [Pork-Vision]([https://github.com/alex-h-sun/Visual-Recognition](https://github.com/AAFC-Bioinfo-AAC/pork-vision)) | Computer vision models for agricultural use cases | Python, PyTorch |
 | [RL_gaming_agent](https://github.com/alex-h-sun/RL_gaming_agent) | Reinforcement learning agent trained to play video games | Python, RL |
 | [sports-edge](https://github.com/alex-h-sun/sports-edge) | ML pipeline for finding value bets in sports markets | Python, ML |
-| [Card_Classification](https://github.com/alex-h-sun/Card_Classification) | Playing card classifier | Python, CV |
-| [Material-DB](https://github.com/alex-h-sun/Material-DB) | Materials database tooling | Python |
