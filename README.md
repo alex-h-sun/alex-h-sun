@@ -1,16 +1,19 @@
-## 👋 I like CS & Statistics
+<div align="center">
 
-<!--
-**alex-h-sun/alex-h-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alex Sun
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Vision+for+agriculture;RL+for+video+games;Finding+good+bets+with+sports-edge)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Visual-Recognition](https://github.com/alex-h-sun/Visual-Recognition) | Computer vision models for agricultural use cases | Python, PyTorch |
+| [RL_gaming_agent](https://github.com/alex-h-sun/RL_gaming_agent) | Reinforcement learning agent trained to play video games | Python, RL |
+| [sports-edge](https://github.com/alex-h-sun/sports-edge) | ML pipeline for finding value bets in sports markets | Python, ML |
+| [Card_Classification](https://github.com/alex-h-sun/Card_Classification) | Playing card classifier | Python, CV |
+| [Material-DB](https://github.com/alex-h-sun/Material-DB) | Materials database tooling | Python |
