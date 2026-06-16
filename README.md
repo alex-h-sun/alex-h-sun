@@ -2,7 +2,7 @@
 
 # Alex Sun
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Vision+for+agriculture;RL+for+video+games;Finding+good+bets+with+sports-edge)](https://git.io/typing-svg)
+
 
 </div>
 
